@@ -2,7 +2,7 @@
 Java Interview Questions 2022
 
 
-D -- > Design Patterns 
-J -- > Java Concepts
-C -- > Competitive Programming
-S -- > Java Scenario Based Questions
+#D -- > Design Patterns 
+#J -- > Java Concepts
+#C -- > Competitive Programming
+#S -- > Java Scenario Based Questions
